@@ -29,18 +29,18 @@ Funcionalidad:
 
 Tareas:
 
-1_ Investigacion del contenido.
-2_ Diseñar el apartado visual de la app web.
-3_ Diseñar la Base de Datos.
-4_ Diseñar el Front-end del juego (HTML, CSS)
-5_ Desarrollo del Back-end (Python, Js)
-6_ Testeo.
-7_ Puesta en produccion.
+* 1. Investigacion del contenido.
+* 2. Diseñar el apartado visual de la app web.
+* 3. Diseñar la Base de Datos.
+* 4. Diseñar el Front-end del juego (HTML, CSS)
+* 5. Desarrollo del Back-end (Python, Js)
+* 6. Testeo.
+* 7. Puesta en produccion.
 
 Responsabilidades:
 
-Bottini -  3, 5
-Gonzalez -
-Magno - 4
-Ozafrán - 2, 4
-Salgado - 3, 5
+* Bottini -  3, 5
+* Gonzalez -
+* Magno - 4
+* Ozafrán - 2, 4
+* Salgado - 3, 5
