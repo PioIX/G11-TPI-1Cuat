@@ -9,7 +9,7 @@ Damián Bottini, Mateo Gonzalez, Nicolas Magno, Ian Ozafrán y Federico Salgado.
 
 
 
-## Título de la propuesta:  Trivia sobre el ODS "Educaciòn de calidad" (ODS 4)
+## Título de la propuesta: MiniJuegos.com ODS
 
 
 #### Descripción de la propuesta:
