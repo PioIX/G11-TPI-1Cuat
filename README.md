@@ -40,7 +40,7 @@ Al final va a haber una base de datos que guarde los puntajes más altos de ambo
 #### Responsabilidades:
 
 * Bottini -  3, 5
-* Gonzalez - 6 
-* Magno - 
+* Gonzalez - 1, 6 
+* Magno - 4, 7
 * Ozafrán - 2, 4
 * Salgado - 3, 5
