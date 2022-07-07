@@ -29,3 +29,8 @@ function palabraCorroboradaEstaBien() {
 function palabraCorroboradaEstaMal() {
     return false
 }
+
+// funcion que verifica si ganaste
+function verificadorSiGanaste() {
+    return false
+}
