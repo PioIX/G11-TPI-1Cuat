@@ -10,3 +10,22 @@ function nuevaListaPalabrasHorizontales() {
     return false;
 }
 
+// funcion para crear un nuevo codyCross
+function nuevoCodyCross() {
+    return false
+}
+
+// funcion para verificar las palabras
+function corroborarPalabra() {
+    return false
+}
+
+// funcion en caso de que la palabra verificada este bien
+function palabraCorroboradaEstaBien() {
+    return false
+}
+
+// funcion en caso de que la palabra verificada este mal
+function palabraCorroboradaEstaMal() {
+    return false
+}
