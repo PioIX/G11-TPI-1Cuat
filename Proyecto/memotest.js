@@ -1,5 +1,4 @@
 function imagen(id){
-
     numero = document.getElementById(id).id
     console.log( "ID= " + numero)
 
@@ -60,18 +59,38 @@ function imagen(id){
     }
 
     console.log(x)
+    
+
+    document.getElementById(numero).value = "1"
     document.getElementById(numero).innerHTML += `
-    <img src=${x} width="80" height="80" id="ocupado">`
+        <img src=${x} width="80" height="80" >`
 
+   
     posicion = Math.floor(Math.random()*16)
-
     console.log("Posicion= " + posicion)
+
+    valor = false
+    while(valor == false){
+       if(document.getElementById(posicion).value == 0){
+        document.getElementById(posicion).value = "1"
+        document.getElementById(posicion).innerHTML += `
+            <img src=${x} width="80" height="80" >`
+        valor = true
+        }else{
+            console.log("ocupado")
+            posicion = Math.floor(Math.random()*16)
+            console.log(posicion)
+            
+            
+        } 
+    }
+
+    
+    
+        
 
 
 }
-
-
-
 
 
 function destapar(numero){
