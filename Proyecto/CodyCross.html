@@ -9,27 +9,19 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 </head>
 <body>
-    
     <div class="area">
     <ul class="circles"> 
-   
-    <!-- Parte de Arriba -->
-    
-    <button class=jijiji onclick= "location.href='index.html'"></button>
-    <button id="ayuda" onclick= "location.href='index.html'">?</button>
-    <img src="img/flecha.png" alt="jijijija">
-        
-    
+    <button class="mainmenu" onclick= "location.href='index.html'">MENU</button>
+    <a href="javascript:abrir()"><button id="ayuda">?</button></a>
+    <div class="ventana" id="vent">
+        <div id="cerrar"><a href="javascript:cerrar()"><img src="Ventanas Emergentes/cerrar.png"></div></a>
+        Reglas del CodyCross
+         <br></br>
+         <p class="texto">El juego consiste en adivinar las palabras mediante las pistas. Al adivinar una palabra se desvalaran letras que te ayudaran para hallar las siguientes. Todo ello con el fin de armar la Palabra principal que es la que esta pintada en rojo y en vertical.</p>
+    </div>
     <h1>CodyCross</h1>
-    
-    
     <div id="Extra"></div>
-
-    
-    <!-- Cajas segunda parte */ -->
     <div id="Todo">
-        
-        <!-- // Div de las pistas -->
         <div id="Pistas">
             <div id="P"></div>
             <div id="P"></div>
@@ -38,7 +30,6 @@
             <div id="P"></div>
             <div id="P"></div>
         </div>
-        <!-- Div de las palabras -->
         <div id="Palabras">
             <div class="Letra" id="1">
                 <input type="text" id="1">
@@ -89,9 +80,7 @@
                 <input type="text" id="6">
             </div>
         </div>
-        
     </div>
-
         <li></li>
         <li></li>
         <li></li>
@@ -103,6 +92,13 @@
         <li></li>
         <li></li>
     </ul> 
-    
+    <script>
+        function abrir(){
+            document.getElementById("vent").style.display="block";
+        }
+        function cerrar(){
+            document.getElementById("vent").style.display="none";
+        }
+    </script>
 </body>
 </html>

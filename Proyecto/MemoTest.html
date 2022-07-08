@@ -11,11 +11,17 @@
     
         <div class="area">
         <ul class="circles">
-    <a><button  onclick= "location.href='index.html'">Menu</button></a>
+    <button class="mainmenu" onclick= "location.href='index.html'">MENU</button>
+    <a href="javascript:abrir()"><button id="ayuda">?</button></a>
+    <div class="ventana" id="vent">
+        <div id="cerrar"><a href="javascript:cerrar()"><img src="Ventanas Emergentes/cerrar.png"></div></a>
+        Reglas del MemoTest
+         <br></br>
+         <p class="texto">El jugador debe ir descubriendo las celdas de a una e ir recordando dónde está cada pieza del par, para así reunirlos y sumar puntos. El objetivo es lograr reunir la mayor cantidad de pares. Concluye cuando todos los pares de la grilla son formados.</p>
+    </div>
     <h1>MemoTest</h1>
     <main>
         <section class="section1"></section>
-        
         <table>
             <tr>
                 <td><button value = 0 class=boton id="0" onclick=""></button></td>
@@ -59,5 +65,13 @@
         <p></p>
     </footer>
     <script src="memotest.js"></script>
+    <script>
+        function abrir(){
+            document.getElementById("vent").style.display="block";
+        }
+        function cerrar(){
+            document.getElementById("vent").style.display="none";
+        }
+    </script>
 </body>
 </html>
