@@ -25,7 +25,4 @@ HUELGA: "Protesta o manifestacion por un objetivo",
 LUCHAR: "Emplear la fuerza para conseguir un fin", 
 MENTIR: "Decir algo incorrecto con intencion", 
 NUTRIR: "Proporcionar a un organismo las sustancias que necesita para su conservación y crecimiento",
-OPINAR: "Compartir una postura de algo", 
-
- 
- 															
+OPINAR: "Compartir una postura de algo",
