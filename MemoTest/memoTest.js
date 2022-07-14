@@ -28,75 +28,75 @@ function imagen(){
 
         switch(imagen){ 
             case 0:
-                x = "img/ODS17.png"
+                x = "../Imagenes/ODS17.png"
                 NoRepetir.add(0)
                 break;
             case 1:
-                x= "img/ODS1.png"
+                x= "../Imagenes/ODS1.png"
                 NoRepetir.add(1)
                 break;
             case 2:
-                x="img/ODS2.png"
+                x="../Imagenes/ODS2.png"
                 NoRepetir.add(2)
                 break;
             case 3:
-                x = "img/ODS3.jpg"
+                x = "../Imagenes/ODS3.jpg"
                 NoRepetir.add(3)
                 break;
             case 4:
-                x= "img/ODS4.png"
+                x= "../Imagenes/ODS4.png"
                 NoRepetir.add(4)
                 break;
             case 5:
-                x = "img/ODS5.png"
+                x = "../Imagenes/ODS5.png"
                 NoRepetir.add(5)
                 break;
             case 6:
-                x= "img/ODS6.png"
+                x= "../Imagenes/ODS6.png"
                 NoRepetir.add(6)
                 break;
             case 7:
-                x = "img/ODS7.jpg"
+                x = "../Imagenes/ODS7.jpg"
                 NoRepetir.add(7)
                 break;
             case 8:
-                x= "img/ODS8.png"
+                x= "../Imagenes/ODS8.png"
                 NoRepetir.add(8)
                 break;
             case 9:
-                x="img/ODS9.png"
+                x="../Imagenes/ODS9.png"
                 NoRepetir.add(9)
                 break;
             case 10:
-                x="img/ODS10.png"
+                x="../Imagenes/ODS10.png"
                 NoRepetir.add(10)
                 break;
             case 11:
-                x ="img/ODS11.png"
+                x ="../Imagenes/ODS11.png"
                 NoRepetir.add(11)
                 break;
             case 12:
-                x="img/ODS12.png"
+                x="../Imagenes/ODS12.png"
                 NoRepetir.add(12)
                 break;
             case 13:
-                x="img/ODS13.jpg"
+                x="../Imagenes/ODS13.jpg"
                 NoRepetir.add(13)
                 break;
             case 14:
-                x="img/ODS14.png"
+                x="../Imagenes/ODS14.png"
                 NoRepetir.add(14)
                 break;
             case 15:
-                x="img/ODS15.png"
+                x="../Imagenes/ODS15.png"
                 NoRepetir.add(15)
                 break;
             case 16:
-                x="img/ODS16.jpg"
+                x="../Imagenes/ODS16.jpg"
                 NoRepetir.add(16)
                 break;
             case 17:
-                x="img/ODS17.png"
+                x="../Imagenes/ODS17.png"
                 NoRepetir.add(17)
                 break;
         }    
