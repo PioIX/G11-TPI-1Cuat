@@ -14,7 +14,7 @@ Al final va a haber una base de datos que guarde los puntajes más altos de ambo
 Link: https://github.com/PioIX/PioIX-G11-TPI-1Cuat-2
 
 ### Presupuesto:
-* *
+link: https://github.com/PioIX/G11-TPI-1Cuat/tree/main/Documentos/Presupuesto
 
 ### Indice:
 * *
