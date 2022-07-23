@@ -255,8 +255,8 @@ button{
 .ventana{
     background-color: #7119f7;
     border: #4e0fad solid  10px;
-    width: 80%;
-    height: 85%;
+    width: 50%;
+    height: 50%;
     color: white;
     font-family:'Fredoka One';
     font-size: 50px;
@@ -265,8 +265,8 @@ button{
     min-height: 250px;
     border-radius: 22px;
     position: absolute;
-    left: 8%;
-    top: 2%;
+    left: 24%;
+    top: 20%;
     display: none;
 }
 
@@ -280,5 +280,6 @@ button{
     font-size: 30px;
     text-align: left;
 }
+
 
 
