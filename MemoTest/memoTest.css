@@ -188,8 +188,8 @@ table{
     margin-left: 10px;
     margin-top: 10px;
     border-radius: 10px;
-    background-color: rgb(255, 0, 0);
-    border: 1px solid rgb(236, 98, 98);
+    background-color: #ff0000;
+    border: 1px solid #ec6262;
     border-width: 10px;
     cursor: pointer;
 }
@@ -263,8 +263,8 @@ table{
 }
 
 .texto{
-    font-size: 30px;
-    text-align: left;
+    font-size: 31px;
+    text-align: justify;
 }
 
 .section2{
@@ -276,10 +276,9 @@ table{
     position: absolute;
 }
 .estadisticas1{
-    background-color: #7119f7;
-    border: #4e0fad solid  10px;
     height: 150px;
     width: 350px;
+    border: #ffffff solid  3px;
     border-radius: 8px;
     padding: 5px 20px;
     box-sizing: border-box;
@@ -288,9 +287,8 @@ table{
 
 .estadisticas2{
     margin-top: 15px;
-    background-color: #7119f7;
-    border: #4e0fad solid  10px;
     height: 150px;
+    border: #ffffff solid  3px;
     width: 350px;
     border-radius: 8px;
     padding: 5px 5px;
@@ -301,8 +299,7 @@ table{
 .estadisticas3{
     text-align: center;
     margin-top: 15px;
-    background-color: #7119f7;
-    border: #4e0fad solid  10px;
+    border: #ffffff solid  3px;
     height: 150px;
     width: 350px;
     border-radius: 8px;

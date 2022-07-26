@@ -174,3 +174,17 @@ footer{
     flex-direction: column;
     align-items: center;
 }
+
+.seleccionModo{
+    width: 400px;
+    height: 100px;
+    transform: skew(-10deg);
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.258);
+    color: white;
+    line-height: 100px;
+    text-align: center;
+    font-family:'Fredoka One';
+    font-size: 25px;
+}
+
