@@ -3,7 +3,7 @@
 ### Integrantes:
 Damián Bottini, Mateo Gonzalez, Nicolas Magno, Ian Ozafrán y Federico Salgado.
 
-#### Link Replit: https://replit.com/join/clwhmcbolt-damian-efrainef
+#### Enlace de r3plit: https://replit.com/join/clwhmcbolt-damian-efrainef
 
 ### Introduccion:
 Se realizará una app web con un menú inicial donde se muestre una introducción a los ODS trabajados y después  habrá dos botones los cuales nos direccionan a los juegos. Los juegos son:
