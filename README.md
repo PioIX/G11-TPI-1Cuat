@@ -3,6 +3,8 @@
 ### Integrantes:
 Damián Bottini, Mateo Gonzalez, Nicolas Magno, Ian Ozafrán y Federico Salgado.
 
+#### Link Replit: https://replit.com/join/clwhmcbolt-damian-efrainef
+
 ### Introduccion:
 Se realizará una app web con un menú inicial donde se muestre una introducción a los ODS trabajados y después  habrá dos botones los cuales nos direccionan a los juegos. Los juegos son:
 	CodyCross: un juego que consiste en una sopa de letras la cuales se completa con las palabras ingresadas y abajo del cuadrado hay ayudas o pistas.
@@ -18,8 +20,6 @@ Link: https://github.com/PioIX/PioIX-G11-TPI-1Cuat-2
 ### Presupuesto:
 link: https://github.com/PioIX/G11-TPI-1Cuat/tree/main/Documentos/Presupuesto
 
-### Indice:
-* *
 
 #### Funcionalidad:
 
