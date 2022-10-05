@@ -47,4 +47,5 @@ link: https://github.com/PioIX/G11-TPI-1Cuat/tree/main/Documentos/Presupuesto
 * Ozafrán - 2, 4
 * Salgado - 3, 5
 
-# LINK PARA EL NUEVO REPO: https://github.com/PioIX/PioIX-G11-TPI-1Cuat-2/tree/main/G11-TPI-1Cuat
+## Link para el repo del primer proyecto: https://github.com/PioIX/PioIX-G11-TPI-1Cuat-2/tree/main/G11-TPI-1Cuat
+## Link para el repo del segundoo proyecto: https://replit.com/@NicolasMAGNO2/PROYECTO2#main.py
