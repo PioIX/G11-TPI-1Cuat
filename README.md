@@ -17,7 +17,7 @@ Link: https://github.com/PioIX/PioIX-G11-TPI-1Cuat-2
 
 ### Pythonanywhere: http://db0ttini.pythonanywhere.com/ 
 
-### Presupuesto:
+### Presupuesto del proyecto 1:
 link: https://github.com/PioIX/G11-TPI-1Cuat/tree/main/Documentos/Presupuesto
 
 
@@ -48,4 +48,5 @@ link: https://github.com/PioIX/G11-TPI-1Cuat/tree/main/Documentos/Presupuesto
 * Salgado - 3, 5
 
 ## Link para el repo del primer proyecto: https://github.com/PioIX/PioIX-G11-TPI-1Cuat-2/tree/main/G11-TPI-1Cuat
-## Link para el repo del segundoo proyecto: https://replit.com/@NicolasMAGNO2/PROYECTO2#main.py
+
+
